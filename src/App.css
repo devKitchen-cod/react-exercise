@@ -15,7 +15,7 @@
 
 .houses__item-animal-name {
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
   margin-right: 5px;
 }
 
